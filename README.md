@@ -1,7 +1,7 @@
 # 📚 Ringkasan Materi Kuliah: Isu Etika, Kebijakan, Keamanan, dan Tata Kelola dalam Strategi TI
 
 ## Pertemuan 13: Isu Etika, Kebijakan, Keamanan, dan Tata Kelola dalam Strategi TI 
-Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT.) 
+Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT. 
 
 ### 🎯 Tujuan Pembelajaran 
 * Memahami isu etika dalam penerapan TI. 
